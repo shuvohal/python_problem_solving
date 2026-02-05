@@ -1,0 +1,6 @@
+#String Reversal with Slicing: Write a Python function to reverse a given string using slicing.
+def reverse_string(s):
+    return s[::-1]
+
+# Example usage:
+print(reverse_string("Hello World"))  # Output: dlroW olleH
