@@ -30,7 +30,7 @@ Rohan
 Sample Output 0
 Berry
 Harry
-Tina
+
 Explanation 0
 There are 3 students with the lowest grade of 37.21, so we print their names in alphabetical order.
 '''
